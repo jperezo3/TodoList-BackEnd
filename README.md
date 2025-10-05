@@ -119,7 +119,7 @@ Infrastructure → Application → Domain
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todolist-api.git
+git clone https://github.com/jperezo3/todolist-api.git
 cd todolist-api
 ```
 
