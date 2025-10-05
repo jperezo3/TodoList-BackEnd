@@ -1,6 +1,7 @@
 # TodoList API - Technical Test Angular & .NET
 
 RESTful API for task management (To-Do List) developed with .NET 9 and Angular 17+, implementing Clean Architecture, JWT Authentication, and Entity Framework Core.
+> **Disclaimer:** This README was automatically formatted with the assistance of AI tools.
 
 ## 📋 Table of Contents
 
@@ -455,10 +456,15 @@ TodoList.Solution/
 - [x] Centralized error handling
 
 ---
+## AI Assistance
+
+This document was structured and formatted using AI-based tools to ensure consistency and readability.
+
+---
 
 ## 📧 Contact
 
-For questions or issues, please contact: [your-email@example.com]
+For questions or issues, please contact: jsebastianperez72@gmail.com
 
 ---
 
